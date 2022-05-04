@@ -1,0 +1,130 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514e;
+}
+h1{
+  color: #66bfbf;
+  margin: 50px auto 0 auto;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+}
+
+h2{
+
+  color: #66bfbf;
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 10px;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999e;
+  font-weight: bold;
+}
+p{
+  line-height: 2;
+}
+hr{
+  border: 6px;
+  border-style:dotted none none;
+  border-color:#eaf6f6;
+  width:5%;
+  margin: 100px auto;
+}
+.top-container{
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+.cloud-2{
+  position: absolute;
+  left: 250px;
+
+}
+.cloud-1{
+  position: absolute;
+  top: 40px;
+  right: 300px;
+}
+.vera{
+  width:100px;
+}
+.skill-row{
+  margin: 100px auto;
+  width: 50%;
+  text-align: left;
+}
+.coffee{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.guitar{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.describe{
+  font-family: 'Merriweather', serif;
+  width: 30%;
+  margin: auto;
+}
+.profile{
+  margin-top: 50px;
+}
+.bottom-container{
+
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+  color: #eaf6f6;
+}
+.footer-link{
+  color: #11999e;
+  text-decoration:none;
+  margin: 10px 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+.footer-link:hover{
+  color: #eaf6f6;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 16px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+.button-div{
+  margin-top: 60px;
+  margin-bottom: 80px;
+}
+.copyright{
+  font-family: 'Merriweather', serif;
+  font-size: 0.75rem;
+  margin: 2.5rem auto;
+}
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
